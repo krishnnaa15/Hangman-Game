@@ -8,4 +8,5 @@ guess the word or they run out of guesses and the stick figure is hung.
 
 #Output 
 
-![Screenshot (63)](https://github.com/krishnnaa15/krishnnaa15/assets/141332207/f1febe16-7dde-4406-b4c4-8a4615fdeb34)
+![Screenshot 2024-10-21 085829](https://github.com/user-attachments/assets/12958411-c8b3-4d6e-be64-69e8ff4cbe1e)
+![Screenshot 2024-10-21 085950](https://github.com/user-attachments/assets/083c7eca-a238-4985-b847-3ac7c0b945fd)
